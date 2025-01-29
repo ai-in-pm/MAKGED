@@ -132,6 +132,13 @@ triple = ("Huawei Honor 10", "network support", "5G")
 # Detect errors
 is_error, decision_msg, agent_results = makged.detect_error(triple, graph_context)
 ```
+![image](https://github.com/user-attachments/assets/e7db762e-d14e-4f3f-b843-519bcc3cb4b0)
+![image](https://github.com/user-attachments/assets/782a1cfa-9e69-4851-8959-612a9d7b8129)
+![image](https://github.com/user-attachments/assets/03f95b8e-49cd-41e7-a163-2afbd4e9c0ec)
+![image](https://github.com/user-attachments/assets/527a665c-600b-49cf-8bfd-92eb580edf23)
+![image](https://github.com/user-attachments/assets/f98f0fd5-bf6d-4f0c-9e8d-18c8abb694c4)
+![image](https://github.com/user-attachments/assets/d8470cc7-2108-48e6-80ae-14a6e1383c0d)
+![image](https://github.com/user-attachments/assets/baf6c877-3d8e-4107-9a3f-cacddcd50d57)
 
 ## Contributing
 

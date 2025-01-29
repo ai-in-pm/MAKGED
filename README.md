@@ -2,6 +2,8 @@
 
 A real-time simulation framework that employs six AI agents leveraging Large Language Models (LLMs) for enhanced error detection in knowledge graphs. The system integrates graph structure embeddings (via GCN) and semantic embeddings (via LLMs) while demonstrating multi-agent discussion and voting mechanisms.
 
+The development of this repository was inspired by the "Harnessing Diverse Perspectives: A Multi-Agent Framework for Enhanced Error Detection in Knowledge Graphs" paper. To read the full article, visit https://arxiv.org/pdf/2501.15791
+
 ## Features
 
 - **Multi-Agent Architecture**: Six specialized AI agents working collaboratively:
